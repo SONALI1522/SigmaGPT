@@ -1,1 +1,1 @@
-# Sigma_GPT
+# Sigma_gpt
